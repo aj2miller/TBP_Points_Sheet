@@ -1,9 +1,9 @@
 # TBP_Points_Sheet
 
- ![Sign-in Sheet](screenshots/Sign-InSheet.png)
+ ![Sign-in Sheet](Screenshots/Sign-InSheet.png)
 
 
- ![Point Tracking Sheet](screenshots/PointTrackingSheet.png)
+ ![Point Tracking Sheet](Screenshots/PointTrackingSheet.png)
 
 
 Usage:
